@@ -7,3 +7,4 @@ fifth modified.
 sixth modified.
 seventh modified.
 develop 
+creating a new branch is quick and simple
